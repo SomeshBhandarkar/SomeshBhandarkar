@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on interactive HR Tableau Project. <br>👯 I'm currently looking for people to participate in Hackathons!<br>🏫 Pursuing Master's in Data Science at the University at Buffalo (UB). <br>🔮 I'm a visionary Data Scientist & Machine Learning Enthusiast.<br>⚡A fun fact about me is that I'm a national level football player.
+🔭 I'm currently working on interactive HR Tableau Project. <br>👯 I'm currently looking for internships!<br>🏫 Pursuing Master's in Data Science at the University at Buffalo (UB). <br>🔮 I'm a visionary Data Scientist & Machine Learning Enthusiast.<br>⚡A fun fact about me is that I'm a national level football player.
 
 
 ## 🌐 Socials:
