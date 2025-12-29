@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Data Engineering Project. <br>👯 I'm currently looking for internships!<br>🏫 Pursuing Master's in Data Science at the University at Buffalo (UB). <br>🔮 I'm a visionary Data Scientist & Machine Learning Enthusiast.<br>⚡A fun fact about me is that I'm a national level football player.
+🔭 I'm currently working on Scalable workflow pipeline Engineering Project. <br>👯 I'm currently looking for internships and full time roles!<br>🏫 Graduated ->  Master's in Data Science from  University at Buffalo (UB). <br>🔮 I'm a visionary Data Engineer & Machine Learning Enthusiast.<br>⚡A fun fact about me is that I'm a national level football player.
 
 
 ## 🌐 Socials:
