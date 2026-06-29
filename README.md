@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6a00ff,100:00fff7&height=190&section=header&text=Somesh%20R%20Bhandarkar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20GenAI%20%2B%20MLOps&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6a00ff,100:00fff7&height=190&section=header&text=Somesh%20R%20Bhandarkar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20GenAI%20%2B%20MLOps&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=750&lines=Building+production+ML+systems+that+ship;Latent+Diffusion+%7C+RAG+%7C+LLMOps;Currently%3A+ML+Engineer+%40+University+at+Buffalo;Open+to+ML%2FAI+Engineering+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Building+production+GenAI+%2B+ML+systems+that+ship;Latent+Diffusion+%7C+RAG+%7C+LLMOps;Currently%3A+ML+Engineer+%40+University+at+Buffalo;Open+to+AI+Engineer+%2F+ML+Engineer+roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,12 +18,12 @@
 
 ## 🧠 About Me
 
-I'm a Master's student in Data Science at the **University at Buffalo**, working as a **Machine Learning Engineer** building generative AI pipelines for medical imaging. I like turning research-grade models — diffusion, RAG, LLMs — into systems that actually run in production: containerized, tracked, and reproducible.
+I'm a Master's student in Data Science at the **University at Buffalo**, working as an **AI / Machine Learning Engineer** building generative AI pipelines for medical imaging. I work across the full stack of modern AI engineering — training and fine-tuning models, building LLM/RAG applications, and shipping both into production.
 
-- 🔬 Currently training **latent diffusion models** for synthetic histopathology generation on H100 / A100 clusters
-- 🛠️ Shipping **RAG + LLM** products end-to-end — contract intelligence, mental health support — backend to deployment
-- 📊 Background spans **ML engineering, MLOps, and data engineering**
-- 🎯 Open to **ML Engineer / AI Engineer / Applied Scientist** roles
+- 🤖 **AI Engineer side:** building RAG pipelines, LLM-powered applications, and agentic systems (LangChain, FAISS, GPT-4, Claude, Gemini) — from prompt design to production API
+- 🔬 **ML Engineer side:** training **latent diffusion models** (PathLDM, HistoDiffusion) for synthetic histopathology generation on H100 / A100 clusters, plus classic CV/ML (YOLOv8, Random Forest)
+- 🛠️ Comfortable end-to-end: data pipelines → model training → containerization (Docker) → deployment (AWS SageMaker, GCP) → experiment tracking (MLflow)
+- 🎯 Open to **AI Engineer / Machine Learning Engineer / Applied Scientist** roles
 - ⚡ Fun fact: national-level football player
 
 <br/>
@@ -34,7 +34,7 @@ I'm a Master's student in Data Science at the **University at Buffalo**, working
 <tr>
 <td width="190" valign="top"><b>Sep 2025 – Present</b></td>
 <td>
-<b>Machine Learning Engineer</b> · University at Buffalo<br/>
+<b>Machine Learning Engineer</b> <sub>(AI Engineering + GenAI)</sub> · University at Buffalo<br/>
 <sub>
 • Cut image preprocessing time 75% (2 hrs → 30 min) by engineering a Python pipeline that standardized 200–300 patches/slide across 1,000+ whole-slide histopathology images (150GB)<br/>
 • Hit FID 3.5 and 85% classification accuracy on synthetic liver histopathology by training PathLDM &amp; HistoDiffusion latent diffusion models in PyTorch across 5 runs on H100/A100 GPUs<br/>
